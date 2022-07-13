@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+}
+#heading{
+    background-color: aqua;
+}
+.inputs{
+    border-radius: 30px;
+    height: 15px;
+    width: 80px;
+}
+#calculate{
+    border-radius: 30px;
+    background-color: aqua;
+    height: 30px;
+    width: 80px;
+}
+#output{
+    font-size: medium;
+    font-style: oblique;
+}
